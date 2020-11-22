@@ -13,7 +13,7 @@ It's based off [OpenWeatherLite](https://github.com/zsyed91/) Ruby library.
 
 ## Installation
 
-In the game, run `plugin/install openweather`.
+In the game, run `plugin/install <github url>`.
 
 You'll probably also want to disable the main weather plugin. Go to Admin -> Setup -> Enable or Disable Plugins and uncheck 'weather'.
 
@@ -73,3 +73,7 @@ may be an e-mail that you need to click to complete the setup. So check your spa
 ## Uninstalling
 
 Removing the plugin requires some code fiddling.  See [Uninstalling Plugins](https://www.aresmush.com/tutorials/code/extras.html#uninstalling-plugins).
+
+## License
+
+Same as [AresMUSH](https://aresmush.com/license).
